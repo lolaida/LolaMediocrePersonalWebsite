@@ -1,0 +1,45 @@
+h1 {
+	font-family: 'Oswald';
+	padding-top: 10px;
+	text-align: center;
+}
+
+h1 a {
+	font-size: 50px;
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #45A29E;
+	text-decoration: none;
+}
+
+p {
+	font-family: 'EB Garamond';
+	float: left;
+	font-family: Vea;
+	font-size: 15px;
+	padding-left: 17%;
+	padding-top: 10px;
+	padding-right: 17%;
+}
+
+.container-fluid {
+	font-family: Oswald;
+}
+
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
+
+.container {
+	float: left;
+	height: 40%;
+	padding: 15px;
+	margin: auto;
+	padding-left: 25%;
+	padding-top: 10px;
+}
+
+
