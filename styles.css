@@ -34,9 +34,9 @@ h3 {
 
 p {
 	text-align: center;
-	font-family: 'EB Garamond'
-	font: gray;
-	font-family: Vea;
+	font-family: 'EB Garamond';
+	color: gray;
+	font-family: 'Vea';
 	font-size: 15px;
 	margin-left: 30%;
 	padding-top: 10px;
