@@ -1,0 +1,51 @@
+
+a:hover {
+	color: #45A29E;
+	text-decoration: none;
+}
+
+a {
+	color: #1F2833;
+}
+
+h1 {
+	font-family: 'Oswald';
+	padding-left: 40px;
+	padding-top: 10px;
+	padding-right: 40px;
+	text-align: center;
+}
+
+h1 a {
+	font-size: 50px;
+	color: black;
+	text-decoration: none;
+}
+
+p {
+	font-family: 'EB Garamond'
+	font: gray;
+	font-family: Vea;
+	font-size: 15px;
+}
+
+.item {
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-right: 40px;
+	margin-right: 50px;
+	float: left;
+}
+
+.container-fluid {
+	font-family: Oswald;
+}
+
+img {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: 40%;
+	width: 60%;
+}
+
